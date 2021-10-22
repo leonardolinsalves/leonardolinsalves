@@ -38,7 +38,7 @@
 
 ### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Redes sociais:
 <div>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="right" alt="Leo-Gif" height="200" width="300" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif">
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="right" alt="Leo-Gif" height="200" width="300" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif">
   <a href="https://br.linkedin.com/in/leonardolinsalves" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://br.linkedin.com/in/leonardolinsalves" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
