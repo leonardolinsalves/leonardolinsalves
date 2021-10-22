@@ -4,8 +4,8 @@
 
 <div>
 <a href="https://github.com/leonardolinsalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardolinsalves&theme=vision-friendly-dark&show_icons=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolinsalves&layout=compact&langs_count=16&theme=vision-friendly-dark">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leonardolinsalves&theme=vision-friendly-dark&show_icons=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolinsalves&layout=compact&langs_count=16&theme=vision-friendly-dark">
 </a>
 </div>
 
