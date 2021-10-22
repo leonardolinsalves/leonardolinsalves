@@ -27,8 +27,9 @@
   <img align="center" alt="Leo-Heroku" height="30" width="70" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img align="center" alt="Leo-Linux" height="30" width="70" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="Leo-Visual" height="30" width="70" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-   
+ 
   
+   
   
 OBS: Tem muito mais... =D
 </div>
@@ -37,6 +38,7 @@ OBS: Tem muito mais... =D
 
 ### Redes sociais:
 <div>
+  <img align="right" alt="Leo-Gif" height="200" width="300" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif">
   <a href="https://br.linkedin.com/in/leonardolinsalves" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://br.linkedin.com/in/leonardolinsalves" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
