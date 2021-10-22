@@ -1,6 +1,11 @@
 ## Olá! Eu sou Leonardo Lins
 
-- Atualmente Sou Data Engineer
+ 
+<div>
+  <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> - Atualmente Sou Data Engineer na Alelo Brasil
+</div>
+
+##
 
 <div>
 <a href="https://github.com/leonardolinsalves">
@@ -9,14 +14,31 @@
 </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Leo-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  <img align="center" alt="Leo-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-  <img align="center" alt="Leo-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-  <img align="center" alt="Leo-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>
-  <img align="center" alt="Leo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Leo-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Leo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Leo-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/yarn/yarn-original-wordmark.svg"/>
+### Trabalhei, trabalho e estudo:
+<div>
+  <img align="center" alt="Leo-Python" height="30" width="70" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+  <img align="center" alt="Leo-Json" height="30" width="70" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+  <img align="center" alt="Leo-Shell" height="30" width="70" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img align="center" alt="Leo-Django" height="30" width="70" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  <img align="center" alt="Leo-Flask" height="30" width="70" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img align="center" alt="Leo-Git" height="30" width="70" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Leo-Airflow" height="30" width="70" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+  <img align="center" alt="Leo-AWS" height="30" width="70" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img align="center" alt="Leo-Heroku" height="30" width="70" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img align="center" alt="Leo-Linux" height="30" width="70" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="Leo-Visual" height="30" width="70" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+   
+  
+  
+OBS: Tem muito mais... =D
 </div>
+
+##
+
+### Redes sociais:
+<div>
+  <a href="https://br.linkedin.com/in/leonardolinsalves" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://br.linkedin.com/in/leonardolinsalves" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+##
