@@ -1,8 +1,8 @@
-## &nbsp;                                Hi there I'm Leonardo &nbsp;
+## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Hi there I'm Leonardo &nbsp;
 
  
 <div>
-  <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> - Data Engineer na Alelo Brasil 
+  <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;💼</g-emoji> - A data engineer at Alelo Brasil from São Paulo, Brazil 
 </div>
 
 ##
@@ -14,9 +14,9 @@
 </a>
 </div>
 
-### Trabalhei, trabalho e estudo:
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Trabalhei, trabalho e estudo:
 <div>
-  <img align="center" alt="Leo-Python" height="30" width="70" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+  &emsp;&emsp;&emsp;<img align="center" alt="Leo-Python" height="30" width="70" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
   <img align="center" alt="Leo-Json" height="30" width="70" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img align="center" alt="Leo-Shell" height="30" width="70" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img align="center" alt="Leo-Django" height="30" width="70" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
@@ -31,16 +31,24 @@
   
    
   
-OBS: Tem muito mais... =D
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;OBS: Tem muito mais... =D
 </div>
 
 ##
 
-### Redes sociais:
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Redes sociais:
 <div>
-  <img align="right" alt="Leo-Gif" height="200" width="300" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif">
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="right" alt="Leo-Gif" height="200" width="300" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif">
   <a href="https://br.linkedin.com/in/leonardolinsalves" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://br.linkedin.com/in/leonardolinsalves" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ##
+
+<div>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;How to reach me: llinsalves1@gmail.com<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+
+
