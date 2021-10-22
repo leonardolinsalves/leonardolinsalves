@@ -1,9 +1,8 @@
-## Olá! Eu sou Leonardo Lins
+## &nbsp;                                Hi there I'm Leonardo &nbsp;
 
  
 <div>
-  <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> - Atualmente Sou Data Engineer na Alelo Brasil <br/><br/> - Minha rotina é atuar na arquitetura na AWS, promovendo um ambiente saudável e com os recursos adequados para o processamento dos dados, garantindo sempre que os serviços AWS da arquitetura funcionem perfeitamente no Datalake.  Construo também ETL's usando Pyspark, além de criar novos serviços e pipes para atender diversas áreas de negócios da empresa, sempre visando o processamento de dados, sejam eles Batch ou Real-Time (Stream).
-     
+  <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> - Data Engineer na Alelo Brasil 
 </div>
 
 ##
