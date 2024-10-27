@@ -2,7 +2,7 @@
 
  
 <div>
-  <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;💼</g-emoji> - A Data Engineer Manager at CredNovo from São Paulo, Brazil 
+  <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;💼</g-emoji> - A Data Tech Lead at Johnson e Johnson from São Paulo, Brazil 
 </div>
 
 ##
